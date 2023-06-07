@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/kbianco/Downloads/dog.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0621",
+        "foreground": "#eddfcb",
+        "cursor": "#eddfcb"
+    },
+    "colors": {
+        "color0": "#0f0621",
+        "color1": "#96686D",
+        "color2": "#98887C",
+        "color3": "#D49778",
+        "color4": "#957982",
+        "color5": "#9C9386",
+        "color6": "#D8B089",
+        "color7": "#eddfcb",
+        "color8": "#a59c8e",
+        "color9": "#96686D",
+        "color10": "#98887C",
+        "color11": "#D49778",
+        "color12": "#957982",
+        "color13": "#9C9386",
+        "color14": "#D8B089",
+        "color15": "#eddfcb"
+    }
+}

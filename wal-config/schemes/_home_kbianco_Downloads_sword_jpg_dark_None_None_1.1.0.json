@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/kbianco/Downloads/sword.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101e2f",
+        "foreground": "#e9cacb",
+        "cursor": "#e9cacb"
+    },
+    "colors": {
+        "color0": "#101e2f",
+        "color1": "#325E8B",
+        "color2": "#61698A",
+        "color3": "#9D6D8D",
+        "color4": "#D17488",
+        "color5": "#6E91AB",
+        "color6": "#9F92A5",
+        "color7": "#e9cacb",
+        "color8": "#a38d8e",
+        "color9": "#325E8B",
+        "color10": "#61698A",
+        "color11": "#9D6D8D",
+        "color12": "#D17488",
+        "color13": "#6E91AB",
+        "color14": "#9F92A5",
+        "color15": "#e9cacb"
+    }
+}

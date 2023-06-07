@@ -1,0 +1,21 @@
+set $wallpaper /home/kbianco/.wallpapers/wallpaper.jpg
+
+set $background #1a1e25
+set $foreground #cfbdcc
+
+set $color0 #1a1e25
+set $color1 #AA676B
+set $color2 #CD8871
+set $color3 #786E85
+set $color4 #8F7891
+set $color5 #C37988
+set $color6 #7D8291
+set $color7 #cfbdcc
+set $color8 #90848e
+set $color9 #AA676B
+set $color10 #CD8871
+set $color11 #786E85
+set $color12 #8F7891
+set $color13 #C37988
+set $color14 #7D8291
+set $color15 #cfbdcc

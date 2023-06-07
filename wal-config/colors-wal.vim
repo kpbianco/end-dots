@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/kbianco/.wallpapers/wallpaper.jpg"
+let background = "#1a1e25"
+let foreground = "#cfbdcc"
+let cursor     = "#cfbdcc"
+
+" Colors
+let color0  = "#1a1e25"
+let color1  = "#AA676B"
+let color2  = "#CD8871"
+let color3  = "#786E85"
+let color4  = "#8F7891"
+let color5  = "#C37988"
+let color6  = "#7D8291"
+let color7  = "#cfbdcc"
+let color8  = "#90848e"
+let color9  = "#AA676B"
+let color10 = "#CD8871"
+let color11 = "#786E85"
+let color12 = "#8F7891"
+let color13 = "#C37988"
+let color14 = "#7D8291"
+let color15 = "#cfbdcc"

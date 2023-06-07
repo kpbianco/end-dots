@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/kbianco/Downloads/wallpaper_var3.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1a1e25",
+        "foreground": "#cfbdcc",
+        "cursor": "#cfbdcc"
+    },
+    "colors": {
+        "color0": "#1a1e25",
+        "color1": "#AA676B",
+        "color2": "#CD8871",
+        "color3": "#786E85",
+        "color4": "#8F7891",
+        "color5": "#C37988",
+        "color6": "#7D8291",
+        "color7": "#cfbdcc",
+        "color8": "#90848e",
+        "color9": "#AA676B",
+        "color10": "#CD8871",
+        "color11": "#786E85",
+        "color12": "#8F7891",
+        "color13": "#C37988",
+        "color14": "#7D8291",
+        "color15": "#cfbdcc"
+    }
+}

@@ -1,0 +1,35 @@
+2023-05-24 18:30:03,664 -- INFO -- Start Glances 3.4.0.3
+2023-05-24 18:30:03,664 -- INFO -- CPython 3.11.3 (/usr/bin/python) and psutil 5.9.5 detected
+2023-05-24 18:30:03,672 -- INFO -- Read configuration file '/usr/share/doc/glances/glances.conf'
+2023-05-24 18:30:03,699 -- INFO -- Start GlancesStandalone mode
+2023-05-24 18:30:03,709 -- WARNING -- Missing Python Lib (No module named 'requests'), cannot load nginx AMP
+2023-05-24 18:30:03,713 -- WARNING -- Missing Python Lib (No module named 'requests'), Ports plugin is limited to port scanning
+2023-05-24 18:30:03,722 -- WARNING -- Missing Python Lib (No module named 'py3nvml'), Nvidia GPU plugin is disabled
+2023-05-24 18:30:03,727 -- WARNING -- Missing Python Lib (No module named 'requests'), Cloud plugin is disabled
+2023-05-24 18:30:03,749 -- WARNING -- Missing Python Lib (No module named 'netifaces'), IP plugin is disabled
+2023-05-24 18:30:03,753 -- WARNING -- Error loading Docker deps Lib. Docker plugin is disabled (No module named 'requests')
+2023-05-24 18:30:03,755 -- WARNING -- Error loading Podman deps Lib. Podman feature in the Containers plugin is disabled (No module named 'podman')
+2023-05-24 18:30:03,757 -- WARNING -- Missing Python Lib (No module named 'pymdstat'), Raid plugin is disabled
+2023-05-24 18:30:03,759 -- WARNING -- Sparklines module not found (No module named 'sparklines')
+2023-05-24 18:30:03,766 -- WARNING -- Missing Python Lib (No module named 'wifi'), Wifi plugin is disabled
+2023-05-24 18:30:03,766 -- WARNING -- Wifi lib is not compliant with Python 3, Wifi plugin is disabled
+2023-05-24 18:30:03,774 -- WARNING -- Missing Python Lib (No module named 'pySMART'), HDD Smart plugin is disabled
+2023-05-24 18:30:05,775 -- WARNING -- Graph export module is disable. Run Glances with --export graph to enable it.
+2023-05-24 18:30:08,308 -- INFO -- Stop Glances (keypressed: 113)
+2023-05-24 18:45:13,315 -- INFO -- Start Glances 3.4.0.3
+2023-05-24 18:45:13,315 -- INFO -- CPython 3.11.3 (/usr/bin/python) and psutil 5.9.5 detected
+2023-05-24 18:45:13,323 -- INFO -- Read configuration file '/usr/share/doc/glances/glances.conf'
+2023-05-24 18:45:13,349 -- INFO -- Start GlancesStandalone mode
+2023-05-24 18:45:13,359 -- WARNING -- Missing Python Lib (No module named 'requests'), cannot load nginx AMP
+2023-05-24 18:45:13,363 -- WARNING -- Missing Python Lib (No module named 'requests'), Ports plugin is limited to port scanning
+2023-05-24 18:45:13,371 -- WARNING -- Missing Python Lib (No module named 'py3nvml'), Nvidia GPU plugin is disabled
+2023-05-24 18:45:13,376 -- WARNING -- Missing Python Lib (No module named 'requests'), Cloud plugin is disabled
+2023-05-24 18:45:13,398 -- WARNING -- Missing Python Lib (No module named 'netifaces'), IP plugin is disabled
+2023-05-24 18:45:13,402 -- WARNING -- Error loading Docker deps Lib. Docker plugin is disabled (No module named 'requests')
+2023-05-24 18:45:13,403 -- WARNING -- Error loading Podman deps Lib. Podman feature in the Containers plugin is disabled (No module named 'podman')
+2023-05-24 18:45:13,405 -- WARNING -- Missing Python Lib (No module named 'pymdstat'), Raid plugin is disabled
+2023-05-24 18:45:13,408 -- WARNING -- Sparklines module not found (No module named 'sparklines')
+2023-05-24 18:45:13,415 -- WARNING -- Missing Python Lib (No module named 'wifi'), Wifi plugin is disabled
+2023-05-24 18:45:13,415 -- WARNING -- Wifi lib is not compliant with Python 3, Wifi plugin is disabled
+2023-05-24 18:45:13,422 -- WARNING -- Missing Python Lib (No module named 'pySMART'), HDD Smart plugin is disabled
+2023-05-24 18:51:24,964 -- INFO -- Stop Glances (keypressed: 113)

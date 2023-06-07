@@ -1,0 +1,59 @@
+#! /bin/sh
+
+
+bspc monitor -d 1 2 3 4 5 6 7 8 9 10
+
+pgrep -x sxhkd > /dev/null || sxhkd &
+
+pkill xss-lock
+xss-lock -- betterlockscreen -l dimblur --off 300 -- --composite &
+
+xset s 300 120
+xss-lock -n dim-screen.sh -- betterlockscreen -l dimblur --off 300 -- --composite 
+
+pkill picom
+picom &
+
+nitrogen --restore
+
+bspc config border_width         2
+bspc config window_gap          12
+
+bspc config split_ratio          0.52
+bspc config borderless_monocle   true
+bspc config gapless_monocle      true
+bspc config focus_follows_pointer true
+bspc config top_padding 35
+
+#rules
+bspc rule -a Emacs state=tiled
+
+
+
+xset fp+ ~/.fonts/misc &
+
+#pkill stalonetray
+#stalonetray &
+
+npm-applet &
+
+pkill clipit
+clipit -d -n
+
+pkill xsettingsd
+xsettingsd &
+
+#pkill volumeicon
+#volumeicon &
+
+pkill sxhkd
+sxhkd -c ~/.config/sxhkd/sxhkdrc &
+
+mpd &
+
+bash /home/kbianco/.config/polybar/startup
+
+pkill panel-bspwm
+panel-bspwm &
+
+bash /home/kbianco/.config/scripts/laptop_input.sh
